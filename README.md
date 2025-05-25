@@ -25,7 +25,7 @@ After years on the ground with heavy machines, I'm now back in the lab — trans
 #### 3. **Motorcycle Engine**
 ![Bike Frame](assets/motorcycle-engine.png)
 
-> Lightweight yet strong frame designed for sport bikes using parametric modeling.
+> Motorcycle engine modeled in Creo showcasing detailed and compact, high-performance design.
 
 ---
 
@@ -54,8 +54,8 @@ Currently upskilling with:
 
 ### ⚙️ Tools & Skills
 
-<img src="assets/creo-logo.png" width="40"/> <img src="assets/autocad-logo.png" width="40"/>
-<img src="assets/sql-logo.png" width="40"/> <img src="assets/powerbi-logo.png" width="40"/> <img src="assets/cat-logo.png" width="40"/> <img src="assets/apriso-logo.png" width="40"/>---
+<img src="assets/creo-logo.png" width="40"/>   <img src="assets/autocad-logo.png" width="40"/>   
+   <img src="assets/sql-logo.png" width="40"/>     <img src="assets/powerbi-logo.png" width="40"/>   <img src="assets/cat-logo.png" width="40"/>   <img src="assets/apriso-logo.png" width="40"/>---
 
 ### 📫 Connect with Me
 
