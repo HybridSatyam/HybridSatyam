@@ -65,8 +65,9 @@ Currently upskilling with:
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumarsingh)[![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail&logoColor=red)](mailto:satyamsingh508@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-grey?style=flat&logo=whatsapp&logoColor=green)](https://wa.me/919399153221)[![Instagram](https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram&logoColor=purple)](https://www.instagram.com/_universal_xenon_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumarsingh) [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail&logoColor=red)](mailto:satyamsingh508@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-grey?style=flat&logo=whatsapp&logoColor=green)](https://wa.me/919399153221) [![Instagram](https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram&logoColor=purple)](https://www.instagram.com/_universal_xenon_)
 
 ---
 
