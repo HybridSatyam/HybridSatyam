@@ -5,7 +5,9 @@
 
 **Mechanical Engineer | CAD Designer | Lab-Based Problem Solver**
 
-After years on the ground with heavy machines, I'm now back in the lab — transforming hands-on experience into precise designs and deeper analysis.
+"Hybrid" reflects the fusion of on-ground experience and digital innovation.
+
+                After years on the ground with heavy machines, I'm now back in the lab — transforming hands-on experience into precise designs and deeper analysis.
 
 ---
 
