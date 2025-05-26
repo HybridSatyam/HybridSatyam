@@ -59,7 +59,7 @@ Currently upskilling with:
 ### ⚙️ Tools & Skills
 
 <img src="assets/creo-logo.png" width="50"/>   <img src="assets/autocad-logo.png" width="50"/>   
-   <img src="assets/sql-logo.png" width="40"/>     <img src="assets/powerbi-logo.png" width="50"/>   <img src="assets/cat-logo.png" width="35"/>   <img src="assets/apriso-logo.png" width="60"/>
+   <img src="assets/sql-logo.png" width="40"/>     <img src="assets/powerbi-logo.png" width="50"/>   <img src="assets/cat-logo.png" width="35"/>   <img src="assets/apriso-logo.jpeg" width="60"/>
 
 ---
 
