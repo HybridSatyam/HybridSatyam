@@ -60,7 +60,7 @@ Currently upskilling with:
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumarsingh)  
-[![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:satyamsingh508@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmailcolor=white&logoColor=red)](mailto:satyamsingh508@gmail.com)
 ---
 
 > “Back to the lab, not to escape the field—but to understand it better.”
