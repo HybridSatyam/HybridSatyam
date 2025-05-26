@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="assets/lab-banner.gif" width="100%" alt="Engineering Lab Banner"/>
+<img src="assets/lab-banner.png" width="100%" alt="Engineering Lab Banner"/>
 
 # Hi, I'm Satyam Kumar Singh!
 
