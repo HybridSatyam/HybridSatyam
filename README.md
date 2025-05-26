@@ -67,5 +67,5 @@ Currently upskilling with:
 
 <!-- Footer GIF -->
 <p align="center">
-  <img src="assets/engineer-thinking.gif" width="300"/>
+  <img src="assets/engineer-thinking.gif" width="500"/>
 </p>
