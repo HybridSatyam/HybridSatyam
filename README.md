@@ -5,9 +5,11 @@
 
 **Mechanical Engineer | CAD Designer | Lab-Based Problem Solver**
 
-"Hybrid" reflects the fusion of on-ground experience and digital innovation.
+"Hybrid" reflects the fusion of on-ground experience and Data analysis.
 
-After years on the ground with heavy machines, I'm now back in the lab — transforming hands-on experience into precise designs and deeper analysis.
+From turning spanner to turning data into actionable insights.
+
+After years on the ground with heavy machines, I'm now in the lab — transforming hands-on experience into precise designs and deeper analysis.
 
 ---
 
@@ -33,17 +35,15 @@ After years on the ground with heavy machines, I'm now back in the lab — trans
 
 ### 🔍 Back in the Lab – What I'm Working On
 
-- Analyzing real field failures in a controlled lab setting  
-- Building maintenance dashboards in **Power BI**  
-- Creating equipment health databases using **SQL**  
-- Merging **CAD + analytics** for smart design improvements
+- Proactively monitoring the equipement on the basis of EXCEPTION and EVENT.  
+- ACE and Grafana is the weapon instead of hammer and chisel.  
+- Merging **CAD + analytics** for smart understaing.
 
 ---
 
 ## Learning Roadmap
 
 Currently upskilling with:
-- **Python for Data Analysis**
 - **SQL for Data Management**
 - **Power BI for Reporting**
 - **Statistics & Excel VBA**
