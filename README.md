@@ -3,13 +3,13 @@
 
 # Hi, I'm Satyam Kumar Singh!
 
-**Mechanical Engineer | CAD Designer | Lab-Based Problem Solver**
+**Condition Monitoring Advisor | Mechanical Engineer | Data Analyst | CAD Designer**
 
 "Hybrid" reflects the fusion of on-ground experience and Data analysis.
 
-From turning spanner to turning data into actionable insights.
+Motivation - From turning spanner to turning data into actionable insights.
 
-After years on the ground with heavy machines, I'm now in the lab — transforming hands-on experience into precise designs and deeper analysis.
+After years on the ground with heavy machines, I'm now in the lab — transforming hands-on experience into deeper analysis.
 
 ---
 
@@ -35,15 +35,16 @@ After years on the ground with heavy machines, I'm now in the lab — transformi
 
 ### 🔍 Back in the Lab – What I'm Working On
 
-- Proactively monitoring the equipement on the basis of EXCEPTION and EVENT.  
-- ACE and Grafana is the weapon instead of hammer and chisel.  
-- Merging **CAD + analytics** for smart understaing.
-
+Monitor machine health using telematics and electronic data
+Analyze fault codes, event logs, and equipment trends
+Convert machine data into actionable maintenance insights
+Support predictive and condition-based maintenance strategies
 ---
 
 ## Learning Roadmap
 
 Currently upskilling with:
+- **Foresight, ACE and Grafana**
 - **SQL for Data Management**
 - **Power BI for Reporting**
 - **Statistics & Excel VBA**
@@ -58,9 +59,19 @@ Currently upskilling with:
 
 ### ⚙️ Tools & Skills
 
-<img src="assets/creo-logo.png" width="50"/>   <img src="assets/autocad-logo.png" width="50"/>   
-   <img src="assets/sql-logo.png" width="40"/>     <img src="assets/powerbi-logo.png" width="50"/>   <img src="assets/cat-logo.png" width="35"/>   <img src="assets/apriso-logo.jpeg" width="60"/>
-
+<p align="center">
+  <img src="assets/creo-logo.png" alt="PTC Creo" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/autocad-logo.png" alt="AutoCAD" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/sql-logo.png" alt="SQL" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/powerbi-logo.png" alt="Power BI" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/cat-logo.png" alt="Caterpillar" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/apriso-logo.jpeg" alt="DELMIA Apriso" height="50"/>
+</p>
 ---
 
 ### 📫 Connect with Me
@@ -71,7 +82,7 @@ Currently upskilling with:
 
 ---
 
-> “Back to the lab, not to escape the field—but to understand it better.”
+> Every machine tells a story—the data reveals it.
 
 <!-- Footer GIF -->
 <p align="center">
