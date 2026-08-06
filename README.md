@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="assets/Spanner.png.png" width="100%" alt="From Turning Spanner to Turning Data into Actionable Insight"/>
+  <img src="assets/Spanner.png.png" width="1500" height="500" alt="From Turning Spanner to Turning Data into Actionable Insight"/>
 </p>
 
 # Hi, I'm Satyam Singh!
