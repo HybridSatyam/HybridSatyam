@@ -37,10 +37,7 @@ After years on the ground with heavy machines, I'm now in the lab — transformi
 
 ### 🔍 Back in the Lab – What I'm Working On
 
-Monitor machine health using telematics and electronic data
-Analyze fault codes, event logs, and equipment trends
-Convert machine data into actionable maintenance insights
-Support predictive and condition-based maintenance strategies
+🔍 I monitor machine health by analyzing electronic machine data, including **event codes, fault codes, exceptions, and SOS reports**. 📊 Using data visualization tools, I identify equipment trends, detect potential failures. ⚙️ My focus is on enabling predictive and condition-based maintenance to improve equipment reliability, availability, and operational performance.
 ---
 
 ## Learning Roadmap
