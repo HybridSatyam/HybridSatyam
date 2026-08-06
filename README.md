@@ -1,4 +1,7 @@
 <!-- Header Banner -->
+<p align="center">
+  <img src="assets/Spanner.png.png" width="100%" alt="From Turning Spanner to Turning Data into Actionable Insight"/>
+</p>
 <img src="assets/lab-banner.gif" width="100%" alt="Engineering Lab Banner"/>
 
 # Hi, I'm Satyam Singh!
