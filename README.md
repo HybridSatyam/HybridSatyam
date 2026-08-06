@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <img src="assets/lab-banner.gif" width="100%" alt="Engineering Lab Banner"/>
 
-# Hi, I'm Satyam Kumar Singh!
+# Hi, I'm Satyam Singh!
 
 **Condition Monitoring Advisor | Mechanical Engineer | Data Analyst | CAD Designer**
 
