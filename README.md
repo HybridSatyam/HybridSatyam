@@ -2,7 +2,6 @@
 <p align="center">
   <img src="assets/Spanner.png.png" width="100%" alt="From Turning Spanner to Turning Data into Actionable Insight"/>
 </p>
-<img src="assets/lab-banner.gif" width="100%" alt="Engineering Lab Banner"/>
 
 # Hi, I'm Satyam Singh!
 
@@ -16,7 +15,7 @@ After years on the ground with heavy machines, I'm now in the lab — transformi
 
 ---
 
-
+<img src="assets/lab-banner.gif" width="100%" alt="Engineering Lab Banner"/>
 ### 🛠️ My Work in Action
 
 #### 1. **Internal Combustion Engine**
